@@ -1,0 +1,9 @@
+arquivo,titulo,orgao,link,data,tipo_data,em_corpus,link_verificado
+lei_10294_1999_sp.html,"Lei Estadual nº 10.294/1999 - Proteção e defesa do usuário do serviço público do Estado de São Paulo","Assembleia Legislativa do Estado de São Paulo / Governo do Estado de SP",https://www.al.sp.gov.br/repositorio/legislacao/lei/1999/lei-10294-20.04.1999.html,1999-04-20,publicação,sim,sim
+lei_13460_2017.html,"Lei nº 13.460/2017 - Participação, proteção e defesa dos direitos do usuário dos serviços públicos","Presidência da República",https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13460.htm,2017-06-26,publicação,sim,sim
+lei_12527_2011_lai.html,"Lei nº 12.527/2011 - Lei de Acesso à Informação","Presidência da República",https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2011/Lei/L12527.htm,2011-11-18,publicação,sim,sim
+lei_12305_2010_pnrs.html,"Lei nº 12.305/2010 - Política Nacional de Resíduos Sólidos","Presidência da República",https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12305.htm,2010-08-02,publicação,sim,a verificar
+lei_12608_2012_defesa_civil.html,"Lei nº 12.608/2012 - Política Nacional de Proteção e Defesa Civil","Presidência da República",https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12608.htm,2012-04-10,publicação,sim,a verificar
+lei_9503_1997_ctb.html,"Lei nº 9.503/1997 - Código de Trânsito Brasileiro (texto compilado)","Presidência da República",https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm,1997-09-23,publicação,sim,a verificar
+decreto_lei_3688_1941_lcp.html,"Decreto-Lei nº 3.688/1941 - Lei das Contravenções Penais","Presidência da República",https://www.planalto.gov.br/ccivil_03/decreto-lei/del3688.htm,1941-10-03,publicação,sim,a verificar
+ficha_atendimento_ficticia.txt,"Ficha de atendimento (documento fictício para demonstrar a anonimização)","Equipe do projeto (dados sintéticos)",,2026-11-16,elaboração,nao,sim

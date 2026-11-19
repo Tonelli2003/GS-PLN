@@ -1,0 +1,14 @@
+pypdf
+python-docx
+beautifulsoup4
+lxml
+ftfy
+spacy
+transformers
+torch
+accelerate
+sentence-transformers
+gradio
+requests
+pandas
+nbformat

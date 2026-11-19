@@ -1,0 +1,38 @@
+[
+  {
+    "corpus": "corpus_texto",
+    "exemplos": 211,
+    "media_tokens": 465.1,
+    "min_tokens": 259,
+    "max_tokens": 503,
+    "duplicatas_removidas": 0,
+    "recusas_e_encaminhamentos": null
+  },
+  {
+    "corpus": "corpus_qa",
+    "exemplos": 135,
+    "media_tokens": 50.5,
+    "min_tokens": 24,
+    "max_tokens": 121,
+    "duplicatas_removidas": 0,
+    "recusas_e_encaminhamentos": 0
+  },
+  {
+    "corpus": "corpus_chat",
+    "exemplos": 41,
+    "media_tokens": 94.6,
+    "min_tokens": 60,
+    "max_tokens": 141,
+    "duplicatas_removidas": 0,
+    "recusas_e_encaminhamentos": 18
+  },
+  {
+    "corpus": "corpus_teste",
+    "exemplos": 24,
+    "media_tokens": 15.6,
+    "min_tokens": 8,
+    "max_tokens": 25,
+    "duplicatas_removidas": 0,
+    "recusas_e_encaminhamentos": null
+  }
+]

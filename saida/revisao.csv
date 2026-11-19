@@ -1,0 +1,36 @@
+arquivo,linha,alterado,comentário
+corpus_qa.jsonl,6,não,"mantido sem alteração: Fiel ao art. 1º, §2º. O trecho ainda tem sujeira de cabeçalho (L9503Compilado): rodar o corpus_factory.py atualizado."
+corpus_qa.jsonl,12,não,"mantido sem alteração: Fiel ao art. 4º, I e II da LAI."
+corpus_qa.jsonl,13,sim,"corrigido: ""Informação não sigilosa"" não é definida no trecho; o art. 4º define informação, documento, informação sigilosa e informação pessoal."
+corpus_qa.jsonl,19,sim,"removido: Fiel ao art. 9º, mas é organização interna do governo federal, sem utilidade para o assistente do bairro."
+corpus_qa.jsonl,21,sim,"removido: Fiel ao art. 10, §4º, mas é detalhe interno do Contran, fora do tema do app."
+corpus_qa.jsonl,39,sim,"corrigido: Trecho só traz definições; ""entidades específicas estabelecidas pela lei"" não está no texto e não diz quem limpa a cidade."
+corpus_qa.jsonl,48,não,"mantido sem alteração: Fiel ao §3º do art. 6º: comunicação visual com telefones, vias eletrônicas e endereços das ouvidorias em local de ampla visualização."
+corpus_qa.jsonl,49,sim,"corrigido: Trecho diz o que a Carta de Serviços traz; ""quem fornece"" fica vago."
+corpus_qa.jsonl,51,sim,"corrigido: Fiel ao art. 7º, I, mas a pergunta (""como garantir"") não é respondida pelo trecho."
+corpus_qa.jsonl,58,não,mantido sem alteração: Fiel ao art. 9 da Lei SP 10.294.
+corpus_qa.jsonl,69,sim,corrigido: A resposta contradiz o art. 10-A: documento com fé pública que traga o CPF basta para identificar o cidadão. Não trata de quem não tem CPF.
+corpus_qa.jsonl,77,sim,removido: Trecho não fala de acidente; diz que órgãos executivos de trânsito estaduais aplicam suspensão quando prevista. Fora do tema.
+corpus_qa.jsonl,79,sim,corrigido: Pergunta pede fato (o motivo mais frequente) que o texto não traz; trecho só diz o que o relatório de gestão deve conter.
+corpus_qa.jsonl,82,não,"mantido sem alteração: Fiel ao art. 11, §1º, III da LAI."
+corpus_qa.jsonl,84,sim,"removido: Resposta cita o Cadastro Técnico Federal (item b), mas ""padrões de qualidade ambiental"" é o item a; não responde. Fora do tema."
+corpus_qa.jsonl,89,sim,"removido: Pergunta depende do art. 95, que o trecho não explica; resposta vaga."
+corpus_qa.jsonl,95,sim,"corrigido: Prazo errado: o art. 16 dá 30 dias, prorrogáveis uma vez por igual período, para a decisão final da ouvidoria. Os 20 dias são para agentes públicos responderem à ouvidoria."
+corpus_qa.jsonl,104,não,"mantido sem alteração: Fiel ao art. 22, XVII do CTB (escolas públicas de trânsito)."
+corpus_qa.jsonl,113,sim,removido: Pergunta atribui à PNPDEC/município uma regra que o recorte só liga a um plano não identificado. Conferir na lei antes de manter.
+corpus_qa.jsonl,114,não,"mantido sem alteração: Fiel ao art. 8º, IV e V da Lei 12.608: mapear áreas de risco, fiscalizar e vedar novas ocupações."
+corpus_qa.jsonl,116,sim,"corrigido: O art. 22, §2º dá a fiscalização aos órgãos executivos de trânsito estaduais; PMs só podem fazer quando e conforme convênio (art. 23, III)."
+corpus_qa.jsonl,120,sim,"corrigido: O art. 17 trata de pedido de DESCLASSIFICAÇÃO negado em órgão federal, não de qualquer pedido de acesso. Resposta generaliza."
+corpus_qa.jsonl,122,sim,"removido: Fiel ao art. 19, §2º, mas a pergunta (""Devo informar..."") atribui o dever ao cidadão; regra é do Judiciário e do MP. Fora do tema."
+corpus_qa.jsonl,126,não,"mantido sem alteração: Fiel ao art. 9º, IV (União, Estados e Municípios). Lista só um item: aceitável como ""entre outras""."
+corpus_qa.jsonl,130,sim,removido: Pergunta não se sustenta sozinha (não diz de qual lei/artigo são os incisos III e IV).
+corpus_qa.jsonl,131,sim,"corrigido: Trecho: Plano Nacional prevê metas de eliminação e recuperação de lixões associadas à inclusão de catadores. ""Como são feitas"" e ""programas"" extrapolam."
+corpus_qa.jsonl,135,sim,"corrigido: Pergunta (""como faço para participar"") não bate com a resposta; o art. 11, par. único diz que organizações voluntárias podem participar do SINPDEC."
+corpus_chat.jsonl,1,não,mantido sem alteração: Diálogo escrito à mão sobre fio caído (193/192). Conferir a resposta completa.
+corpus_chat.jsonl,3,não,"mantido sem alteração: Diálogo à mão sobre alagamento (199/193), sem diagnóstico."
+corpus_chat.jsonl,4,não,mantido sem alteração: Diálogo à mão: urgência médica com 192.
+corpus_chat.jsonl,5,não,mantido sem alteração: Diálogo à mão: recusa fora do tema e volta ao app.
+corpus_chat.jsonl,13,não,mantido sem alteração: Fiel à Lei 13.460 (ouvidoria e direito de manifestação).
+corpus_chat.jsonl,16,não,mantido sem alteração: Fiel à LAI: não exige motivo do pedido; órgãos devem oferecer envio pelo site.
+corpus_chat.jsonl,34,não,"mantido sem alteração: Resposta inventa regra (""só loteria estadual"", ""proibida em todo o estado""); não está no Decreto-Lei 3.688 e é fora do tema."
+corpus_chat.jsonl,40,não,"mantido sem alteração: Pergunta sobre plano diretor, resposta sem sentido e fonte de defesa civil; incoerente."
