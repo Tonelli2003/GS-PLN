@@ -59,8 +59,3 @@ Lei Estadual 10.294/1999 (SP) · Lei 13.460/2017 · Lei 12.527/2011 (LAI) · Lei
 - **Sem stop words nem stemming.**
 - **Fidelidade:** cada par de Q&A guarda o `trecho` de apoio; filtro automático + revisão humana (`revisao.csv`).
 - Campos extras nos JSONL (`id`, `titulo`, `orgao`, `link` no texto puro; `lingua_real` no teste) existem para rastreabilidade e podem ser ignorados.
-
-## Revisão humana (passo a passo)
-1. Preencha `decisao_final` (manter, corrigir, remover ou aceito) em todas as linhas de `revisao/revisao_sugerida.csv`.
-2. Com a pasta `saida/` do Colab no projeto, rode: `python aplicar_revisao.py --saida saida --csv revisao/revisao_sugerida.csv`
-3. Saídas: `saida/corpus_qa_revisado.jsonl`, `saida/corpus_chat_revisado.jsonl` e `saida/revisao.csv`.
